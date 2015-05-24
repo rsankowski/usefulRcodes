@@ -1,0 +1,1 @@
+df$fips <- revalue(df$fips, c("06037" = "Los Angeles County", "24510" = "Baltimore City"))
